@@ -1,0 +1,28 @@
+@import url("bootstrap.min.css");
+@import url("styles.css");
+@import url("animate.css");
+@import url("animate.min.css");
+@import url("slick.css");
+@import url("slick-theme.css");
+@import url("http://fontawesome.io/assets/font-awesome/css/font-awesome.css");
+@font-face {
+  font-family: 'Aller';
+  src: url('../font/Aller_Bd.ttf');
+  src: url('../font/Aller_Lt.ttf');
+  src: url('../font/Aller_Rg.ttf');
+}
+@font-face {
+  font-family: 'owsald lig';
+  src: url('../font/Oswald-Light.ttf');
+ }
+@font-face {
+  font-family: 'owsald extra';
+  src: url('../font/Oswald-ExtraLight.ttf');
+}
+@font-face {
+  font-family: 'STHeiti TC';
+  src: url('../font/STHeiti TC Medium.otf');
+  src: url('../font/STHeiti TC Medium.ttf');
+  src: url('../font/STHeiti TC Medium.woff');
+  src: url('../font/STHeiti TC Medium.woff2');
+}
